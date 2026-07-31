@@ -2,7 +2,7 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9968/badge)](https://www.bestpractices.dev/projects/9968)
 [![Mozilla Observatory](https://img.shields.io/mozilla-observatory/grade/localbolt.app?label=observatory)](https://developer.mozilla.org/en-US/observatory/analyze?host=localbolt.app)
-[![Coverage Status](https://coveralls.io/repos/github/the9ines/localbolt/badge.svg?branch=main)](https://coveralls.io/github/the9ines/localbolt?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/bolt-ecosystem/localbolt/badge.svg?branch=main)](https://coveralls.io/github/bolt-ecosystem/localbolt?branch=main)
 
 **[localbolt.app](https://localbolt.app)** - use it now, no install needed.
 
