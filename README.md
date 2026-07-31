@@ -19,7 +19,7 @@ Encrypted peer-to-peer file transfer. Files go directly between devices, never s
 ## Quick Start
 
 ```bash
-git clone https://github.com/the9ines/localbolt.git
+git clone https://github.com/bolt-ecosystem/localbolt.git
 cd localbolt
 ./start.sh
 ```
@@ -99,23 +99,23 @@ npm run dev
 
 ## Ecosystem
 
-LocalBolt is part of the [Bolt Protocol](https://github.com/the9ines/bolt-protocol) ecosystem. See [PRD.md](PRD.md) and [ROADMAP.md](ROADMAP.md) in this repo for product requirements and roadmap.
+LocalBolt is part of the [Bolt Protocol](https://github.com/bolt-ecosystem/bolt-protocol) ecosystem. See [PRD.md](PRD.md) and [ROADMAP.md](ROADMAP.md) in this repo for product requirements and roadmap.
 
 | Relationship | Repository |
 |-------------|-----------|
-| Ecosystem governance (mirror) | [bolt-ecosystem](https://github.com/the9ines/bolt-ecosystem) |
-| Protocol spec | [bolt-protocol](https://github.com/the9ines/bolt-protocol) |
-| SDK dependency | [bolt-core-sdk](https://github.com/the9ines/bolt-core-sdk) |
-| Bundles (subtree) | [bolt-rendezvous](https://github.com/the9ines/bolt-rendezvous) |
-| Native/mobile app shells | [localbolt-app](https://github.com/the9ines/localbolt-app) |
-| Production web app | [localbolt-v3](https://github.com/the9ines/localbolt-v3) |
+| Ecosystem governance (mirror) | [bolt-ecosystem](https://github.com/bolt-ecosystem/bolt-workspace) |
+| Protocol spec | [bolt-protocol](https://github.com/bolt-ecosystem/bolt-protocol) |
+| SDK dependency | [bolt-core-sdk](https://github.com/bolt-ecosystem/bolt-core-sdk) |
+| Bundles (subtree) | [bolt-rendezvous](https://github.com/bolt-ecosystem/bolt-rendezvous) |
+| Native/mobile app shells | [localbolt-app](https://github.com/bolt-ecosystem/localbolt-native) |
+| Production web app | [localbolt-v3](https://github.com/bolt-ecosystem/localbolt-v3) |
 
 This is an **open-source** project. Free to use, self-host, and modify.
 
 ## Related
 
 - **[localbolt.app](https://localbolt.app)** — use it in the browser, no install
-- **[LocalBolt App](https://github.com/the9ines/localbolt-app)** — native/mobile shells over the shared Rust core
+- **[LocalBolt App](https://github.com/bolt-ecosystem/localbolt-native)** — native/mobile shells over the shared Rust core
 
 ## License
 

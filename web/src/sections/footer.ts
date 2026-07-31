@@ -74,7 +74,7 @@ export function createFooter(): HTMLElement {
 
   footer.innerHTML = `
     <div class="max-w-2xl mx-auto px-4 flex items-center justify-center gap-3 text-white/20" style="font-family:'JetBrains Mono',monospace; font-size:10px; letter-spacing:0.05em">
-      <a href="https://github.com/the9ines/localbolt" target="_blank" rel="noopener noreferrer"
+      <a href="https://github.com/bolt-ecosystem/localbolt" target="_blank" rel="noopener noreferrer"
          class="hover:text-white/50 transition-colors">GitHub</a>
       <span class="text-white/[0.08]">/</span>
       <button class="privacy-btn hover:text-white/50 transition-colors">Privacy</button>
